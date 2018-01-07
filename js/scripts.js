@@ -69,7 +69,7 @@ var buttonNumber = 1;
 
 switch (buttonNumber) {
 	case 1:
-		console.log('Change the color of the page')
+		console.log('Change the color of the page');
 	case 2: 
 		console.log('Play the tune');
 	case 3:
